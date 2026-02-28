@@ -1,1 +1,2 @@
-print("New Hrello git ... ");
+print("New Hrello git ... :)");
+print("bye:(")
